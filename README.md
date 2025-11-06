@@ -1,7 +1,7 @@
 # git-teamwork
 # copier dans le fichier README.md
 # les lignes produites par ce code
-# mettez ici le nombre de personnes dans votre groupe
+# mettez ici le nombre de personnes dans votre groupe : hey c'est Ziad
 how_many_people = 3
 
 print("# the teamwork TP\n")
